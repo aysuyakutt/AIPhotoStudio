@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "331647408192",
+    "firebase_url": "https://aiphotostudio-6d40c-default-rtdb.firebaseio.com",
+    "project_id": "aiphotostudio-6d40c",
+    "storage_bucket": "aiphotostudio-6d40c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331647408192:android:a6702c612a4a8a84cee7a5",
+        "android_client_info": {
+          "package_name": "com.vestel.aysuyakut.aiphotostudio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331647408192-ialj9nk7t4o1aogvupsa1g47kjo9uej3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vestel.aysuyakut.aiphotostudio",
+            "certificate_hash": "d7eec2d7d6015860fcbba4fe610aa879ef5daaea"
+          }
+        },
+        {
+          "client_id": "331647408192-dkfs967gpge61bn588sibktcv6fd1bjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          //"current_key":
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331647408192-dkfs967gpge61bn588sibktcv6fd1bjt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
