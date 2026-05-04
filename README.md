@@ -1,5 +1,6 @@
 # AIPhotoStudio
 
+![Project View](images/enterance.png)|![Project View](images/login.png) |![Project View](images/panel.png)
 AIPhotoStudio is an Android photo editing application built with Kotlin and Jetpack Compose. It combines Firebase-based authentication, local image persistence, and AI-assisted image transformation workflows so users can stylize, enhance, save, and manage their photos in a mobile-first experience.
 
 ## Overview
